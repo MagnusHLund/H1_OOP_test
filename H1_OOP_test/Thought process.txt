@@ -1,0 +1,10 @@
+Penge til renovering 550.000.000
+* Hver lejlighed skal have nyt gulv, nyt køkken, renoveret bad, ny hoveddør, ny bagdør, nye vinduer
+  Hvis det er en 4 eller 5 værelses lejlighed skal der var et 3 fags vindue i stuen. Ellers mindst et 2 fags vindue.
+* Badeværelset skal have et matteret 1 fags vindue, som ikke kan åbnes.
+
+For den første del af programmet laver jeg objekter for lejligheder.
+
+
+Derefter begynder jeg at udregne hvordan lejlighederne alle kan renoveres. 
+Jeg kunne godt tænke mig hvis alle lejligheder havde cirka det samme look.
